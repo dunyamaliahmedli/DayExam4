@@ -1,0 +1,110 @@
+.navbar{
+    background-color: #444444 !important;
+  
+}
+.navbar a{
+    color: white !important;
+}
+.bgred{
+    width: 70px;
+    height: 60px;
+    background-color: red;
+}
+.bgreds{
+    width: 70px;
+    height: 60px;
+    transition: 0.3s;
+}
+.bgreds:hover{
+    background-color: red;
+}
+.fixed-bg {
+    background-image: url("https://bootstrapmade.com/demo/templates/Day/assets/img/hero-bg.jpg");
+    min-height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+  /* }
+.welcome{
+    background-image: url(https://bootstrapmade.com/demo/templates/Day/assets/img/hero-bg.jpg);
+    width: 100%;
+    height: 100vh;
+} */
+.container i{
+    color: orangered !important;
+}
+.cards{
+    transition: 0.3s;
+  padding-top: 6px;
+}
+.cards:hover{
+background-color: red;
+padding: 0%;
+color: white;
+}
+.clients{
+    background: #f2f2f2;;
+}
+.img{
+    width: 80px;
+    height: 80px;
+    transition: 1s;
+}
+.img:hover{
+    width: 120px;
+height: 120px;
+}
+.container span{
+    font-size: 45px;
+   
+
+    z-index: 1;
+}
+.call{
+    background-image: url("https://bootstrapmade.com/demo/templates/Day/assets/img/cta-bg.jpg");
+    min-height: 300px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.category p{
+    cursor: pointer;
+    transition: 1;
+
+}
+.category p:hover{
+    color: orangered;
+}
+.t1{
+    background: #f9f9f9;
+}
+.t2{
+    background:red;
+}
+.card1{
+    width: 500px !important;
+}
+.location{
+    background-color:gray ;
+    width: 450px;
+    height: 150px;
+}
+.email{
+    width: 250px;
+    height: 150px;
+    background-color: gray;
+}
+.calls{
+    width: 250px;
+    height: 150px;
+    background-color: gray;
+}
+.inputs{
+    width: 650px;
+    height: 350px;
+    background-color: gray;
+}
